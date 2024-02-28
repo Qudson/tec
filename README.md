@@ -1,0 +1,2 @@
+# tec
+tea testnet
